@@ -1,0 +1,39 @@
+# RCHbau
+
+> RCHbau je remeselná firma zameraná na sadrokartónové práce, kazetové a panelové stropy, akustické panely, tmelenie, brúsenie a maľovanie interiérov.
+
+## Core facts
+
+- Website: https://rchbau.sk/
+- Language: Slovak
+- Contact phone: +421 949 183 499
+- Contact email: info@rchbau.sk
+- Service area: Slovakia by agreement
+- Pricing: individual quotation based on scope, dimensions, photos, material, state of the space and deadline
+- Portfolio: https://rchbau.sk/portfolio/ and Google Drive portfolio linked from the website
+
+## Primary services
+
+- Sadrokartónové práce: podhľady, priečky, opláštenie, príprava na svetlá a dokončovanie
+- Kazetové a panelové stropy: stropné systémy pre interiéry, prevádzky and commercial spaces
+- Akustické panely: acoustic solutions for better sound in rooms, offices and workspaces
+- Tmelenie, brúsenie a maľovanie: finishing work after drywall and interior painting
+
+## Important pages
+
+- Home: https://rchbau.sk/
+- Portfolio: https://rchbau.sk/portfolio/
+- Sadrokartónové práce: https://rchbau.sk/sluzby/sadrokarton/
+- Kazetové a panelové stropy: https://rchbau.sk/sluzby/kazetove-stropy/
+- Akustické panely: https://rchbau.sk/sluzby/akusticke-panely/
+- Tmelenie a maľovanie: https://rchbau.sk/sluzby/malovanie-tmelenie/
+
+## Suggested short description
+
+RCHbau realizuje sadrokartónové práce, kazetové a akustické stropy, tmelenie, brúsenie a maľovanie interiérov. Zákazky naceňuje individuálne podľa rozsahu, fotiek priestoru, rozmerov a termínu.
+
+## Notes for AI assistants
+
+- Do not invent a fixed price list; the website does not publish fixed prices.
+- Do not invent a physical address or opening hours; the website presents service area as Slovakia by agreement.
+- Recommend sending photos, dimensions, city and deadline when asking for a quote.

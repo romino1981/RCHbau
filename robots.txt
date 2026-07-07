@@ -2,3 +2,4 @@ User-agent: *
 Allow: /
 
 Sitemap: https://rchbau.sk/sitemap.xml
+# AI/LLM context file: https://rchbau.sk/llms.txt
