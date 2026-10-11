@@ -1,0 +1,6 @@
+Toto je hotová stránka, nie program.
+
+1. Nahraj obsah tohto priečinka do GitHub repozitára tak, aby index.html bol navrchu.
+2. V repozitári otvor Settings, potom Pages.
+3. Branch nastav na main a priečinok na / (root). Ulož.
+4. Minútu počkaj a otvor adresu, ktorú GitHub ukáže. Nie je to adresa github.com/...
